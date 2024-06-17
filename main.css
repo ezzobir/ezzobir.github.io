@@ -11,10 +11,13 @@ div {
     margin: 20px 10vw;
     padding: 0px 35px 10px;
     border-radius: 10px;
+    font-weight: bold;
+    color: white;
 
 }
 ul {
     list-style-type: none;
+    margin: 0;
     padding: 0;
 }
 a {
@@ -22,30 +25,30 @@ a {
     color: purple;
 }
 .tg-ch-links {
-    background-color: yellow;
+    background-color: rgb(255, 255, 0, 50%);
     margin: auto;
     border-radius: 15px;
-    padding: 5px 15px;
+    padding: 15px;
     width: fit-content;
 }
 .tg-grp-links {
-    background-color: yellow;
+    background-color: rgb(255, 255, 0, 50%);
     margin: auto;
     border-radius: 15px;
-    padding: 5px 15px;
+    padding: 15px;
     width: fit-content;
 }
 .fb-links{
-    background-color: yellow;
+    background-color: rgb(255, 255, 0, 50%);
     margin: auto;
     border-radius: 15px;
-    padding: 5px 15px;
+    padding: 15px;
     width: fit-content;
 }
 .contact-us {
-    background-color: yellow;
+    background-color: rgb(255, 255, 0, 50%);
     margin: auto;
     border-radius: 15px;
-    padding: 5px 15px;
+    padding: 15px;
     width: fit-content;
 }
