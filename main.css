@@ -1,19 +1,30 @@
 body {
-    background-image: url(images/roses.jpg);
-    background-size: cover;
+    /* background-image: url(images/roses.jpg); */
+    /* background-image: url(images/light.jpg); */
+    /* background-image: url(images/roses2.jpg); */
+    /* background-image: url(images/sorrow.jpg); */
+    background-image: url(images/cup.jpg);
+    /* background-size: cover; */
+    background-size: contain;
 }
 div {
     margin: 0;
     padding: 0;
 }
 .container {
-    background-color: rgb(131, 128, 128, 40%);
+    background-color: rgba(0, 0, 0, 0.4);
     margin: 20px 10vw;
-    padding: 0px 35px 10px;
+    padding: 0px 30px 20px;
     border-radius: 10px;
     font-weight: bold;
+    font-size: 16pt;
     color: white;
 
+}
+h2 {
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
 }
 ul {
     list-style-type: none;
@@ -22,31 +33,31 @@ ul {
 }
 a {
     text-decoration: none;
-    color: purple;
+    color: yellow;
 }
 .tg-ch-links {
-    background-color: rgb(255, 255, 0, 50%);
+    background-color: rgb(128, 0, 128, 50%);
     margin: auto;
     border-radius: 15px;
     padding: 15px;
     width: fit-content;
 }
 .tg-grp-links {
-    background-color: rgb(255, 255, 0, 50%);
+    background-color: rgb(128, 0, 128, 50%);
     margin: auto;
     border-radius: 15px;
     padding: 15px;
     width: fit-content;
 }
 .fb-links{
-    background-color: rgb(255, 255, 0, 50%);
+    background-color: rgb(128, 0, 128, 50%);
     margin: auto;
     border-radius: 15px;
     padding: 15px;
     width: fit-content;
 }
 .contact-us {
-    background-color: rgb(255, 255, 0, 50%);
+    background-color: rgb(128, 0, 128, 50%);
     margin: auto;
     border-radius: 15px;
     padding: 15px;
