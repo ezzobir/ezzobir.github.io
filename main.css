@@ -1,6 +1,6 @@
 body {
     background-image: url(images/cup.jpg);
-    background-size: contain;
+    background-size: cover;
     font-family: "Ubuntu", sans-serif;
     font-weight: 700;
     font-style: normal;
